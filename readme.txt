@@ -14,7 +14,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/simple-python-calculator.git
+git clone https://github.com/clintonmachuki/claculator-python.git
 Navigate to the project directory:
 
 bash
